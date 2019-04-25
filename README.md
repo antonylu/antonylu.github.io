@@ -1,8 +1,11 @@
-# antonylu.github.io
+# Sign of Intelligence
 
-Documentation website
+The true sign of intelligence is not knowledge but imagination.
+
 
 ### Markdown
 
 * Draw diagrams with markdown, see [mermaidjs](mermaidjs/)
-* [Syntax of markdown](https://gist.github.com/antonylu/3050df04d81e31ab3dc9080d881b7c17)
+* [Brief Syntax of Markdown](https://gist.github.com/antonylu/3050df04d81e31ab3dc9080d881b7c17)
+* [Detail Syntax of markdown](MARKDOWN.MD)
+
